@@ -9,9 +9,12 @@
         <v-img max-width="100%" :src="require('../assets/matrix.png')"/>
       </v-col>
     </v-row>
-    <h2 class="text-center mt-5">Dernier "article" :</h2>
+    <h2 class="text-center mt-5">Mises à jour :</h2>
     <v-divider></v-divider>
     <p class="text-center mt-5">A gauche y'a le lien vers la timeline des rendus (et des jalons)</p>
+    <p class="text-center mt-5">J'ai rajouté la date de la TNI parcequ'on est encore plus dans la sauce mtn</p>
+    <p class="text-center mt-5">En dessous y'a l'explication de la CI/CD qu'on utilise pour le projet de RS</p>
+    <p class="text-center mt-5">Et <a href="https://github.com/yyewolf/Extraprev">voilà</a> le lien du code source de extraprev si vous voulez m'aider :D</p>
   </v-container>
 </template>
 
