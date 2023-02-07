@@ -46,6 +46,7 @@
                 <li><router-link class="links" to="/vpn">Komen 1staller le VPN (promi c vré)</router-link></li>
                 <li><router-link class="links" to="/tl">Komen kon é dan la sauce</router-link></li>
                 <li><router-link class="links" to="/rs">Cé koa YAMEL</router-link></li>
+                <li><router-link class="links" to="/diss">Cé ki lé délégué ISS</router-link></li>
               </ul>
             </v-container>
           </v-col>
