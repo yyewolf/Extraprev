@@ -1,7 +1,6 @@
 <template>
     <v-container>
         <h1 class="text-center">Voilà les délégués ISS (officiels promis)</h1>
-
         <v-row style="margin-top: 50px;">
             <v-col cols="4">
             </v-col>
